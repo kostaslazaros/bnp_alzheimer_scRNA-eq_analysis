@@ -1,0 +1,7 @@
+pandas
+scanpy
+matplotlib
+seaborn
+scvi
+solo
+hdf5plugin
